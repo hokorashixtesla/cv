@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #FFFBE9;
+}
+.abdulrafaypic {
+    width:200px;
+    height:200px;
+    object-fit:cover;
+    border-radius:50%;
+}
+hr {
+    border-style: dotted none none none;
+    width: 5%;
+    border-color: grey;
+    border-width: 5px;  
+}
+
+h1 , h3 {
+    color: pink;
+}
+
+a {
+    border:  #e75480;
+    background-color: #e75480;
+    border-style: solid;
+    box-sizing: border-box;
+    transition: 1s;
+    color: white;
+}
+a:hover {
+    color: #FAAB78;
+    background-color: #439A97;
+    border: none;
+}
+
+nav {
+   
+   background-color: black;
+   position: static;
+   height: 50px;
+   padding: 10px;
+   display: inline;
+  
+}

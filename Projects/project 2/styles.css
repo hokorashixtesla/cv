@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+
+body {
+  font-family: "Hachi Maru Pop";
+  line-height: 1.4;
+  background-color: #FFE2E2;
+  width: 500px;
+  margin: auto;
+
+}
+
+form {
+  background: rgba(147, 5 ,5 , 0.2);
+  padding: 2.5rem 2.5rem;
+  border-radius: 2rem; 
+  width: 500px;
+  margin: auto; }
+  
+.submit-button {
+  width: 100%;
+  padding: 0.75rem;
+  background: white;
+  border: none;
+  border-radius: 2px;
+  transition: 1s;
+  
+}
+.submit-button:hover {
+  background: black;
+  color: white;
+}
+.input-headings {
+  margin: 0 auto 1.25rem auto;
+  padding: 0.25rem;
+}
+.form-inputs {
+  display: block;
+  width: 90%;
+  height: 2rem;
+  padding: 0.25rem 0.75rem;
+  background: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+
+}
